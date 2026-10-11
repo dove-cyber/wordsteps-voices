@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-IMPORTANT: This license applies ONLY to scripts and documentation in this
-repository. It does NOT apply to the model weights under anon-medium/, which
-are derivative works with third-party rights attached and are distributed
-WITHOUT ANY WARRANTY OR LICENSE GRANT. See README.md section 4 for details.
--------------------------------------------------------------------------------

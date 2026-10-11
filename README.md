@@ -93,7 +93,7 @@ node scripts/repack-sherpa-model.mjs \
 - 请勿用于任何商业用途。
 - 若你是相关权利方并认为本仓库内容侵犯了你的权益，请提 Issue，我会立即移除。
 
-仓库中的**脚本与文档**（如有）由 **鸽浅.strandove** 以 MIT 许可提供。
+仓库中的**脚本与文档**（如有）由 **鸽浅.strandove** 以 MIT 许可提供。完整声明见 [`NOTICE.md`](NOTICE.md)。
 
 ---
 
